@@ -1,5 +1,5 @@
 
-![logo](https://github.com/kumarchy/kumarchy/blob/main/github%20banner.png)
+![logo](https://github.com/kumarchy/kumarChy/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Kumar Chaudhary</h1>
 <h3 align="center">A passionate MERN Stack Enthusiast</h3>
 
