@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👨‍💻 All of my projects are available in [https://portfolio-website-jhi2.onrender.com/](https://portfolio-website-jhi2.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-8bkv.onrender.com/](https://portfolio-website-8bkv.onrender.com/)
 
 - 💬 Ask me about **MERN**
 
