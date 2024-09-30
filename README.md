@@ -31,7 +31,5 @@
 
 <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarChy&theme=radical&show_icons=true&locale=en" alt="surya-kf" /></a>
 
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kumarChy&theme=radical" alt="GitHub Streak">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumarchy&theme=radical&cache_seconds=86400)](https://git.io/streak-stats)
 
